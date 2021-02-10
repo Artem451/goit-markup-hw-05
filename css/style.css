@@ -659,6 +659,10 @@ img {
 .filter-button {
     width: fit-content;
     height: 38px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
     
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -685,12 +689,6 @@ img {
                 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
-.filter-button-size {
-    padding-top: 6px;
-    padding-bottom: 6px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
 
 .work-examples {
    display: flex;
